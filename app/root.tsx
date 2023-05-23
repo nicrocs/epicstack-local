@@ -98,8 +98,7 @@ export default function App() {
 				<header className="container mx-auto py-6">
 					<nav className="flex justify-between">
 						<Link to="/">
-							<div className="font-light">epic</div>
-							<div className="font-bold">notes</div>
+							<div className="font-light">Curvy Yoga Videos</div>
 						</Link>
 						<div className="flex items-center gap-10">
 							{user ? (
